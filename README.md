@@ -1,5 +1,5 @@
 # ⚡ About Me:
-Hi there!👋<br><br>⚡A digital marketer who loves web development <br>📍 From Portugal<br> 🗨️I go by the name Elias<br> 🏋️‍♂️ A sports enthusiast<br>📫 [Contact me through Linkedin](https://www.linkedin.com/in/jpelias24/)<br> 
+Hi there!👋<br><br>⚡A digital marketer who loves web development <br>📍 From Portugal<br> 🗨️ I go by Elias<br> 🏋️‍♂️ A sports enthusiast<br>📫 [Contact me through Linkedin](https://www.linkedin.com/in/jpelias24/)<br> 
 
 
 # 💻 Projects:
