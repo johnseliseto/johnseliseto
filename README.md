@@ -1,6 +1,6 @@
 ##
 ### Hi there! 👋
-📍 From Portugal<br> 🎓 A digital marketer who loves web development<br> 🗨️ I go by Elias<br> 🏋️‍♂️ A sports enthusiast<br> 📫 [Contact me through Linkedin](https://www.linkedin.com/in/jpelias24/)
+📍 From Portugal<br> 🎓 A digital marketer who loves web development<br> 🏋️‍♂️ A sports enthusiast<br> 📫 [Contact me through Linkedin](https://www.linkedin.com/in/jpelias24/)
 
 ##
 ### Projects:
