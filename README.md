@@ -4,7 +4,7 @@
 
 ##
 ### Projects:
-⌨️ [Ratatouille Simulator](https://johnseliseto.github.io/ratatouille-simulator/) - A ratatouille-themed cooking game where the player's goal is to get the highest score.<br><br> 🐕 [Dogs4Life](https://dogs4life.onrender.com/) - Platform to search and list your favourite breeds. <br><br> 📱 [Ironsocial](https://precious-arithmetic-45148b.netlify.app/) - A Hub that brings together important information for students during their time at school.
+⌨️ [Ratatouille Simulator](https://johnseliseto.github.io/ratatouille-simulator/) - A ratatouille-themed cooking game where the player's goal is to get the highest score.<br><br> 🐕 [Dogs4Life](https://dogs4life.onrender.com/) - Platform to search and list your favourite dog breeds. <br><br> 📱 [Ironsocial](https://precious-arithmetic-45148b.netlify.app/) - A Hub that brings together important information for students during their time at school.
 
 ##
 ### Tech Stack:
